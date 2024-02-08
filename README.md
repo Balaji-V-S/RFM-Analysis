@@ -28,11 +28,12 @@ pip install pandas matplotlib seaborn sklearn openpyxl
 # Usage
 1)Clone this repository 
 ```bash
-
+git clone https://github.com/Balaji-V-S/RFM-Analysis
 ```
 
 2) Navigate to project folder
 ```bash
+cd rfm_master_code
 ```
 
 3) Run the .ipynb file
