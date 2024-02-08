@@ -22,7 +22,7 @@ By analyzing these metrics, businesses can identify valuable customers and tailo
 Use pip to install the required packages:
 
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib seaborn sklearn openpyxl
 ```
 
 # Usage
