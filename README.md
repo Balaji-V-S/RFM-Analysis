@@ -55,4 +55,6 @@ RFM scores for each customer
 Segmentation of customers into categories based on RFM scores
 Visualizations like histograms and scatter plots for analysis
 
+# Contribution
+Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to submit a pull request.
 
